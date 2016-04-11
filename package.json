@@ -1,0 +1,31 @@
+{
+  "name": "console-loader",
+  "version": "1.0.0",
+  "description": "Print the resolved require of webpack to the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eedrah/console-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "console",
+    "debug",
+    "require",
+    "file",
+    "path",
+    "filepath",
+    "resolved",
+    "request"
+  ],
+  "author": "eedrah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eedrah/console-loader/issues"
+  },
+  "homepage": "https://github.com/eedrah/console-loader#readme"
+}
