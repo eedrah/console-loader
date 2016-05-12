@@ -1,4 +1,9 @@
 # console-loader
+
+[![npm](https://img.shields.io/npm/v/console-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/console-loader)
+[![GitHub issues](https://img.shields.io/github/issues/eedrah/console-loader.svg)](https://github.com/eedrah/console-loader/issues)
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://raw.githubusercontent.com/eedrah/console-loader/master/LICENSE)
+
 Print the resolved request of webpack to the console. Short and simple.
 
 ## Installation
